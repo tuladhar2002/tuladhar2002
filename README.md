@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tuladhar2002
 - 👀 I’m interested in programming and data science
 - 🌱 I’m currently learning java and python
-- 💞️ I’m looking to collaborate on this site and otehr socials.
+- 💞️ I’m looking to collaborate on this site and other socials.
 - 📫 How to reach me email.
 
 <!---
