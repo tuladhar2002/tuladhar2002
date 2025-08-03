@@ -1,15 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aashir Tuladhar
 =======================================================================================================================================
 
-Computer Science Student | Full-Stack Web Developer
+Computer Science Recent Grad | Full-Stack Web Developer
 ---------------------------------------------------
 
-Currently in my Junior year majoring in Computer Science. A tech enthusiast with a lot of passion Software Development and Data Analytics.
+Currently a Software Engineer I by profession. A tech enthusiast with a lot of passion Software Development and Automations!!
 
 * 🌍  I'm based in Erie, PA
 * ✉️  You can contact me at [tuladhar1386@gmail.com](mailto:tuladhar1386@gmail.com)
-* 🧠  I'm learning Web3 DApp, React-Redux, ASP.NET CORE web API
-* 🤝  I'm open to collaborating on Web Development Projects
 * ⚡  Coffee for me is what oxygen is for others :)
 
 ### Skills
